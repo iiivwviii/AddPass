@@ -1,4 +1,4 @@
-<h1 align="center"><img src="icons/bot.png" width="80" align="absmiddle">Add Password - блокировка Linux приложения паролем</h1>
+<h1 align="center"><img src="icons/lock.png" width="80" align="absmiddle">Add Password - блокировка Linux приложения паролем</h1>
 <div align="center">
   <img src="icons/sh.png" width="50" alt="Bash version">
   <img src="icons/linux.png" width="50" alt="Platform Linux">
