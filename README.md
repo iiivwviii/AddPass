@@ -17,6 +17,8 @@
 ```bash
 echo -n "ваш_пароль" | sha256sum | awk '{print $1}'
 ```
+- [онлайн-генератор SHA-256](https://emn178.github.io/online-tools/sha256.html)
+
 2. Вставьте полученный хеш в переменную:
 ```
 PASS_HASH="полученный_хеш"
