@@ -12,7 +12,7 @@
 - `notify-send` - для уведомлений (обычно входит в состав libnotify)
 - Bash 4.0+
 
-## <img src="icons/sett.png" width="30" align="absmiddle"> Использование
+## <img src="icons/sett.png" width="30" align="absmiddle"> Настройка
 1. Замените `Ваш_Хешированный_пароль` на SHA-256 хеш вашего пароля:
 ```bash
 echo -n "ваш_пароль" | sha256sum | awk '{print $1}'
